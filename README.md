@@ -9,7 +9,7 @@ This repository showcases projects and exercises completed during the MySQL cour
 
 AtliQ Hardware is a global computer hardware firm selling products across multiple channels like distributors, direct sales, and retailers (Brick & Mortar, E-commerce).
 
-🔍 Key Highlights:
+## 🔍 Key Highlights:
 
 ✨Analyzed the differences between Relational and Non-Relational Databases to determine optimal use cases.
 
@@ -22,7 +22,7 @@ AtliQ Hardware is a global computer hardware firm selling products across multip
 ✨Applied Kanban Methodology via Jira for Agile project management.
 
 
-💡 Key Skills and Concepts Acquired
+## 💡 Key Skills and Concepts Acquired
 
 ✨ SQL Proficiency:
 Mastered fundamental and advanced SQL concepts, including SELECT, WHERE, GROUP BY, ORDER BY, and Joins (INNER, LEFT, RIGHT, FULL, CROSS).
