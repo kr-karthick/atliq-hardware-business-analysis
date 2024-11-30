@@ -5,27 +5,38 @@
 
 This repository showcases projects and exercises completed during the MySQL course by Codebasics. It highlights practical applications of MySQL for data analysis, database design, and query optimization. 
 
-🔍 Key Features:
+## 📜 Project Overview: AtliQ Hardware
 
-✨ Data Analysis with SQL: 
+AtliQ Hardware is a global computer hardware firm selling products across multiple channels like distributors, direct sales, and retailers (Brick & Mortar, E-commerce).
 
-Leverage powerful aggregation functions like SUM, AVG, and COUNT to uncover insights. Spot trends effortlessly with GROUP BY and HAVING clauses, while advanced filtering using WHERE and CASE statements ensures precision. Sort like a pro with ORDER BY and create impactful reports with calculated fields and derived columns!
+🔍 Key Highlights:
+
+✨Analyzed the differences between Relational and Non-Relational Databases to determine optimal use cases.
+✨Modeled a Profit & Loss Analysis (P&L) framework for financial insights.
+✨Built database structures with Fact and Dimension Tables using Star and Snowflake Schemas.
+✨Implemented User-Defined Functions to calculate fiscal year and fiscal quarter (get_fiscal_year, get_fiscal_quarter).
+✨Applied Kanban Methodology via Jira for Agile project management.
+
+
+💡 Key Skills and Concepts Acquired
+
+✨ SQL Proficiency:
+Mastered fundamental and advanced SQL concepts, including SELECT, WHERE, GROUP BY, ORDER BY, and Joins (INNER, LEFT, RIGHT, FULL, CROSS).
+
+🔄 Advanced SQL Techniques:
+Developed skills in Subqueries, Common Table Expressions (CTEs), Views, Window Functions (ROW_NUMBER, RANK, DENSE_RANK), and Temporary Tables.
 
 📊 Database Design:
+Designed normalized relational database schemas (1NF, 2NF, 3NF) with primary and foreign keys. Implemented constraints like NOT NULL, UNIQUE, and intelligent indexing for enhanced performance.
 
-Build robust relational database schemas with perfect normalization (1NF, 2NF, 3NF). Craft tables with the right data types, constraints like NOT NULL and UNIQUE, and implement primary and foreign keys for flawless data relationships. Create indices and maintain data integrity like a true database architect.
+⚡ Optimization Strategies:
+Optimized query performance using indexing, partitioning, execution plans, and query restructuring.
 
-🚀 Advanced SQL Concepts:
+🔧 ETL Fundamentals:
+Understood OLTP vs. OLAP concepts and explored Data Warehouse architecture.
 
-Write magic with complex JOINs (INNER, LEFT, RIGHT, FULL, CROSS) and dynamic subqueries. Use Common Table Expressions (CTEs) to simplify your queries and embrace window functions like ROW_NUMBER, RANK, and NTILE for advanced analytics. Dive into recursive CTEs to manage hierarchical data seamlessly.
-
-⚡ Optimization Techniques:
-
-Speed up your queries with intelligent indexing and partitioning strategies. Decode execution plans to fine-tune query performance and handle massive datasets effortlessly. Master temporary tables, table variables, and query restructuring for unmatched efficiency.
-
-🔄 Data Management and Manipulation:
-
-Load bulk data seamlessly with INSERT INTO SELECT and BULK INSERT. Keep your records up-to-date with efficient UPDATE, DELETE, and MERGE operations. Ensure top-notch data quality with smart constraints and handle NULL values gracefully with ISNULL() or COALESCE().
+🛠️ Development Techniques:
+Implemented User-Defined Functions, Stored Procedures, Indexes, Triggers, and Events for dynamic database management.
 
 
 🛠 Tools and Technologies:
@@ -107,7 +118,7 @@ END
 ```
 
 
-Output:![Screenshot 2024-11-18 154909](https://github.com/user-attachments/assets/dcabf700-5ccd-4ea4-8718-35afea5b002a)
+Output:![image](https://github.com/user-attachments/assets/8d6559eb-c4a8-4dfb-9b7f-e357d3cde268)
 
 
 Question:![Screenshot 2024-11-18 155303](https://github.com/user-attachments/assets/c08e0c15-1299-4c53-a67e-7ca16d298e15)
