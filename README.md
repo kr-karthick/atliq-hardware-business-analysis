@@ -12,9 +12,13 @@ AtliQ Hardware is a global computer hardware firm selling products across multip
 🔍 Key Highlights:
 
 ✨Analyzed the differences between Relational and Non-Relational Databases to determine optimal use cases.
+
 ✨Modeled a Profit & Loss Analysis (P&L) framework for financial insights.
+
 ✨Built database structures with Fact and Dimension Tables using Star and Snowflake Schemas.
+
 ✨Implemented User-Defined Functions to calculate fiscal year and fiscal quarter (get_fiscal_year, get_fiscal_quarter).
+
 ✨Applied Kanban Methodology via Jira for Agile project management.
 
 
