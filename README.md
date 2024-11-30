@@ -1,11 +1,11 @@
 ## MySQL Course Completion - Project Overview 🚀
 
 
-## 📌 Project Overview:
+## 📌 Project Overview: AtliQ Hardware
 
 This repository showcases projects and exercises completed during the MySQL course by Codebasics. It highlights practical applications of MySQL for data analysis, database design, and query optimization. 
 
-## 📜 Project Overview: AtliQ Hardware
+## 📜 Business Conetext
 
 AtliQ Hardware is a global computer hardware firm selling products across multiple channels like distributors, direct sales, and retailers (Brick & Mortar, E-commerce).
 
